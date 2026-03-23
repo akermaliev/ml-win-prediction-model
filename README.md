@@ -3,7 +3,7 @@
 This project builds a machine learning model to predict outcomes and identify key performance drivers using competitive match data.
 
 ## Overview
-- Dataset: Competitive match data
+- Dataset: Thousands of competitive match records with gameplay metrics
 - Models: Logistic Regression, KNN
 - Accuracy: ~97–98%
 
