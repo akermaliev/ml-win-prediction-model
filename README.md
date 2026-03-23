@@ -7,6 +7,12 @@ This project builds a machine learning model to predict outcomes and identify ke
 - Models: Logistic Regression, KNN
 - Accuracy: ~97–98%
 
+## Business Impact
+This project demonstrates how predictive modeling can be used to:
+- Identify key performance drivers  
+- Support strategic decision-making  
+- Translate data into actionable insights
+
 ## Key Insights
 - Gold economy is the strongest predictor of winning
 - Early-game advantages heavily influence outcomes
