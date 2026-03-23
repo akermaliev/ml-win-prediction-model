@@ -15,3 +15,10 @@ This project builds a machine learning model to predict outcomes and identify ke
 ## Tech Stack
 - Python (pandas, scikit-learn)
 - Jupyter Notebook
+
+## Approach
+- Cleaned and prepared large-scale match data  
+- Engineered features capturing economy, tempo, and objectives  
+- Trained and compared models (Logistic Regression, KNN)  
+- Evaluated performance using accuracy, F1-score, and ROC-AUC  
+- Interpreted feature importance to extract actionable insights  
